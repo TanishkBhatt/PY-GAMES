@@ -1,5 +1,5 @@
 # PY-GAMES
-- A Set of Beginner Friendly PYTHONIC GAMES using just Core Python that includes control flow and inbuild modules. 
+- A Set of Beginner Friendly PYTHONIC GAMES using just Core Python that includes control flow statements and some inbuild modules. 
 - Author - Tanishk Bhatt : A Student and a Programmer of India.
 
 ---
