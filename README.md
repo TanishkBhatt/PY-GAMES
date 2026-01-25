@@ -12,3 +12,11 @@
 -
 
 ---
+
+## Links
+
+- Portfolio : https://tanishkbhatt.github.io/Portfolio/
+- GitHub : https://github.com/TanishkBhatt/
+- YouTube : https://www.youtube.com/@TanishkBhatt-x6w/
+
+---
