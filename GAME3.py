@@ -2,7 +2,7 @@
 import random
 import time
 
-def slotMatrix(betAmount: float) -> tuple[list[list], int]:
+def slotMatrix(betAmount: float) -> tuple[list[list], int, float]:
     marks = ["A", "B", "C"]
     matrix = [[0, 0, 0], 
               [0, 0, 0], 
@@ -46,3 +46,4 @@ for i in range(rounds):
 
 print(f"\nYOUR TOTAL WINNINGS AFTER {rounds} ROUNDS ON ${betAmount} IS ${total_winnings}")
 print(f"THATS {((total_winnings - betAmount) / betAmount) * 100}% PROFIT!\n") 
+
