@@ -26,7 +26,7 @@ def slotMatrix(betAmount: float) -> tuple[list[list], int, float]:
 print("\nSLOTING MACHINE BETTING GAME!\n")
 
 betAmount = float(input("ENTER YOU BETTING AMOUNT : $"))
-rounds = int(input("ENTER THE NUMBEROF ROUNDS YOU WANNA PLAY : "))
+rounds = int(input("ENTER THE NUMBER OF ROUNDS YOU WANNA PLAY : "))
 
 total_winnings = 0
 
@@ -46,4 +46,5 @@ for i in range(rounds):
 
 print(f"\nYOUR TOTAL WINNINGS AFTER {rounds} ROUNDS ON ${betAmount} IS ${total_winnings}")
 print(f"THATS {((total_winnings - betAmount) / betAmount) * 100}% PROFIT!\n") 
+
 
